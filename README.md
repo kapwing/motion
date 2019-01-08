@@ -1,10 +1,10 @@
-# Motion by Kapwing ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
+# Motion ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
-MOTION is an exploration of geometry, video, and machine learning. By using ML techniques, the tool generates shapes to fit the lines and colors of your image.
+[MOTION](https://www.kapwing.com/motion) is an exploration of geometry, video, and machine learning. By using ML techniques, the tool generates shapes to fit the lines and colors of your image.
 
 The project was inspired by [Primitive](https://github.com/fogleman/primitive) as well as [Geometrize](https://github.com/Tw1ddle/geometrize). The stitching of frames into GIFs is made possible by FFMPEG and ImageMagick.
 
-This repo contains the code to be able to run Motion locally with python.
+This repo contains the code to be able to run Motion locally with python. You can also see the [online demo here](https://www.kapwing.com/motion).
 
 ## Quick overview
 
