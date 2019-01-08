@@ -37,7 +37,7 @@ Now, clone the motion repo and install all dependencies:
 git clone git@github.com:kapwing/motion.git
 cd motion
 pipenv install
-pipenv run python3 motion.py your_input.jpg
+pipenv run python3 motion.py test.jpg
 ```
 
 ## Acknowledgements
