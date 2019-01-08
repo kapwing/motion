@@ -40,7 +40,7 @@ def make_motion(input_path):
     gif_frames = []
 
     # first create all output filenames
-    for x in range(2):
+    for x in range(4):
       frame_path = temp_dir + '/' + str(x) + '.png'
       gif_frames.append(frame_path)
 
